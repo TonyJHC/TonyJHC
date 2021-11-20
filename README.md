@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TonyJHC
-- 👀 I’m interested in JPA(ORM) Pragrmming
-- 🌱 I’m currently learning algorithm
+- 👀 I’m interested in algorithm
+- 🌱 I’m currently learning JPA(ORM) Pragrmming
 - 💞️ I’m looking to collaborate on ...
 - 👨‍💻 My blog https://tonyai.tistory.com/
 - 📫 How to reach me jongvin01@naver.com
