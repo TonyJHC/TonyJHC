@@ -7,7 +7,7 @@
 - 👨‍💻 My blog https://tonyai.tistory.com/
 
 
-- 📮 Tony's email [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Naver&logoColor=white&link=mailto:jongvin01@naver.com)](mailto:jongvin01@naver.com)
+- 📮 Tony's email [![Naver Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Naver&logoColor=white&link=mailto:jongvin01@naver.com)](mailto:jongvin01@naver.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TonyJHC&&show_icons=true&theme=Default)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonyJHC&layout=left)
 <!---
