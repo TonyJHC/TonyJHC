@@ -9,7 +9,6 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TonyJHC&&show_icons=true&theme=Default)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonyJHC&layout=left)
 <!---
 TonyJHC/TonyJHC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
