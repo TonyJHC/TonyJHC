@@ -7,10 +7,10 @@
 - 👨‍💻 My blog https://tonyai.tistory.com/
 - 📫 How to reach me jongvin01@naver.com
 
-
+<div align=center>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TonyJHC&&show_icons=true&theme=Default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonyJHC&layout=left)
-
+</div>
 
 <div align=center><h1>📚 STACKS 🛠 </h1></div>
       <div align=center>
