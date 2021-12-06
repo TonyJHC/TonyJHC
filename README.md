@@ -4,7 +4,7 @@
 - 👀 I’m interested in algorithm
 - 🌱 I’m currently learning JPA(ORM) Pragrmming
 - 💞️ I’m looking to collaborate on ...
-- 👨‍💻 My blog https://tonyai.tistory.com/
+- 👨‍💻 My blog ...
 - 📫 How to reach me jongvin01@naver.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TonyJHC&&show_icons=true&theme=dracula)
