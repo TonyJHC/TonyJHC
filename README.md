@@ -45,7 +45,7 @@
   <br>
       </div>
       
-  <div align=center><h2>👇🏻 ETC 👇🏻 </h2><div>
+  <div align=center><h2>👇🏻 etc👇🏻 </h2><div>
       <div align = center>
             <br>
    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"> 
