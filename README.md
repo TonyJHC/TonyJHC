@@ -13,12 +13,12 @@
 <br>
 
 ### :purple_heart: Career
-| **Type** | **Date** | **Contents** | **Organization** |
-|:--------:|:--------:|:--------:|:--------:|
-| **:mortar_board: Education** | 2017. 2 ~ ing | It Convergence Engineering  | **Hansung University** |
-| **💻External activities** | 2020. 9 ~ ing | 한성대학교 창업동아리  (PlayCarnival) SW Engineer  | **Hansung Univ** |
-| **💻External activities** | 2021. 4 ~ 12 | 한이음 ICT 멘토링 (Petcomes APP) | **한국정보산업연합회** |
-| **💻External activities** | 2021. 5 ~ 10 | 학생 창업유망팀 300 창업도전형 이수 (PlayCarnival : Fever APP) | **교육부/과학기술정보통신부** |
+| **Name** | **Date** |  **Role** | **Contents** |**Organization** |
+|:--------:|:--------:|:--------:|:--------:|:--------:|
+| **:mortar_board: Degree** | 2017. 2 ~ ing | Department of IT Convergence Engineering  | **지능시스템트랙(AI)/사물인터넷트랙(IoT)** | **한성대학교** |
+| **한성대학교 창업동아리** | 2020. 9 ~ ing | Backend Engineer  | **Java , Springboot, Mybatis, DevOps(AWS), Linux, Socket(Python)** | **한성대학교** |
+| **한이음 ICT 멘토링** | 2021. 4 ~ 12 | Team Manager / Backend Engineer, Developer | **Java, Springboot, JPA , DevOps(AWS), Linux** | **한국정보산업연합회** |
+| **학생 창업유망팀 300 창업도전형** | 2021. 5 ~ 10 | Backend Engineer | **Java , Springboot, Mybatis, DevOps(AWS), Linux** | **교육부/과학기술정보통신부** |
 
 <br>
 <br>
