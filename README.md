@@ -24,9 +24,9 @@
 <br>
 
 ### 💻: Project
-| **Name** | **Date** |  **Role** | **Contents** |**Stack** |
+| **Name** | **Date** |  **Role** | **Contents** |**Stacks** |
 |:--------:|:--------:|:--------:|:--------:|:--------:|
-| **Regala** | 2020. 9 ~ 2021. 5 | HW/SW Engineer | **자동촬영기기 <br> HW/SW 설계 및 개발** | **MCU(Arduino),Raspberry pi<br>Linux, MQTT Protocol,<br>Motor** |
+| **Regala** | 2020. 9 ~ 2021. 5 | HW/SW Engineer | **자동촬영기기 <br> HW/SW 설계 및 개발** | **OpenCV(python)-ImageStitching,<br>MCU(Arduino),Raspberry pi,<br>Linux, MQTT Protocol,<br>Motor** |
 | **Fever** | 2021. 5 ~ ing | Backend Developer | **REST API 구축** | **Java , Springboot, Mybatis,<br> DevOps(AWS), Linux** |
 | **Petcomes** | 2021. 7 ~ ing | Team Manager<br>Backend Developer,Engineer | **데이터베이스 설계<br>REST API 구축<br>서버관리 및 모니터링** | **Java, Springboot, JPA, <br>DevOps(AWS), Linux** |
 
