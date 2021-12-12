@@ -9,6 +9,14 @@
 - 📫 How to reach me jongvin01@naver.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TonyJHC&&show_icons=true&theme=dracula)![yoopark's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=TonyJHC&layout=compact&theme=dracula)
+### :purple_heart: Career
+
+| **Type** | **Date** | **Contents** | **Organization** |
+|:--------:|:--------:|:--------:|:--------:|
+| **:mortar_board: Education** | 2017. 2 ~ 2022. 8 | It Convergence Engineering   | **Hansung University** |
+| **External activities** | 2020. 9 ~ ing | 한성대학교 창업동아리  (PlayCarnival) SW Engineer  | **Hansung Univ** |
+| **External activities** | 2021. 4 ~ 12 | 한이음 ICT 멘토링 (Petcomes APP) | **한국정보산업연합회** |
+| **External activities** | 2021. 5 ~ 10 | 학생 창업유망팀 300 창업도전형 이수 (PlayCarnival : Fever APP) | **교육부/과학기술정보통신부** |
 
 <div align=center><h1>📚 STACKS 🛠 </h1></div>
       <div align=center>
