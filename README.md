@@ -18,7 +18,7 @@
 | **:mortar_board:한성대학교<br>IT 공과대학 <br> IT융합공학부** | 2017. 2 ~ ing | 공학사 | **지능시스템트랙(AI)<br>사물인터넷트랙(IoT)** | **한성대학교** |
 | **한성대학교 창업동아리** | 2020. 9 ~ ing | HW/SW Engineer<br>Backend Developer  | **풋살 경기 자동 촬영 시스템과 전용 APP** | **한성대학교** |
 | **한이음 ICT 멘토링** | 2021. 4 ~ 12 | Team Manager<br>Backend Engineer, Developer | **반려견 생활기록 SNS APP** | **한국정보산업연합회** |
-| **학생 창업유망팀 300 창업도전형** | 2021. 5 ~ 10 | Backend Engineer | **풋살 경기 자동 촬영 시스템과 전용 APP** | **교육부<br>과학기술정보통신부** |
+| **학생 창업유망팀 300 <br>창업도전형** | 2021. 5 ~ 10 | Backend Engineer | **풋살 경기 자동 촬영 시스템과 전용 APP** | **교육부<br>과학기술정보통신부** |
 
 <br>
 <br>
@@ -26,7 +26,7 @@
 ### 💻: Project
 | **Name** | **Date** |  **Role** | **Contents** |**Stacks** |
 |:--------:|:--------:|:--------:|:--------:|:--------:|
-| **Regala** | 2020. 9 ~ 2021. 5 | HW/SW Engineer | **자동촬영기기 <br> HW/SW 설계 및 개발** | **OpenCV(python)-ImageStitching,<br>MCU(Arduino),Raspberry pi,<br>Linux, MQTT Protocol,<br>Motor** |
+| **Regala** | 2020. 9 ~ <br>2021. 5 | HW/SW Engineer | **자동촬영기기 <br> HW/SW 설계 및 개발** | **OpenCV(python)-ImageStitching,<br>MCU(Arduino),Raspberry pi,<br>Linux, MQTT Protocol,<br>Motor** |
 | **Fever** | 2021. 5 ~ ing | Backend Developer | **REST API 구축** | **Java , Springboot, Mybatis,<br> DevOps(AWS), Linux** |
 | **Petcomes** | 2021. 7 ~ ing | Team Manager<br>Backend Developer,Engineer | **데이터베이스 설계<br>REST API 구축<br>서버관리 및 모니터링** | **Java, Springboot, JPA, <br>DevOps(AWS), Linux** |
 
