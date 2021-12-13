@@ -1,12 +1,14 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTonyJHC%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=android.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+<div align=center>
+👋 Hi, I’m @TonyJHC👋<br>
+👀 I’m interested in algorithm 👀<br>
+🌱 I’m currently learning JPA(ORM) Pragrmming 🌱<br>
+📫 How to reach me jongvin01@naver.com 📫<br>
+</div>
+<br>
+<br>
 
-- 👋 Hi, I’m @TonyJHC
-- 👀 I’m interested in algorithm
-- 🌱 I’m currently learning JPA(ORM) Pragrmming
-- 💞️ I’m looking to collaborate on ...
-- 👨‍💻 My blog ...
-- 📫 How to reach me jongvin01@naver.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TonyJHC&&show_icons=true&theme=dracula)![yoopark's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=TonyJHC&layout=compact&theme=dracula)
 <br>
@@ -28,7 +30,8 @@
 |:--------:|:--------:|:--------:|:--------:|:--------:|
 | **Regala** | 2020. 9 ~ <br>2021. 5 | HW/SW Engineer | **자동촬영기기 <br> HW/SW 설계 및 개발** | **OpenCV(python)-ImageStitching,<br>MCU(Arduino),Raspberry pi,<br>Linux, MQTT Protocol,<br>Motor** |
 | **Fever** | 2021. 5 ~ ing | Backend Developer | **REST API 구축** | **Java , Springboot, Mybatis,<br> DevOps(AWS), Linux** |
-| **Petcomes** | 2021. 7 ~ ing | Team Manager<br>Backend Developer,Engineer | **데이터베이스 설계<br>REST API 구축<br>서버관리 및 모니터링** | **Java, Springboot, JPA, <br>DevOps(AWS), Linux** |
+| **Petcomes** | 2021. 7 ~ 12 | Team Manager<br>Backend Developer,Engineer | **WAS 구축,<br>서버관리 및 모니터링** | **Java, Springboot, JPA, <br>DevOps(AWS), Linux** |
+| **miiia** | 2022. 1 ~ ing | Backend Developer,Engineer | **WAS 구축,<br>서버관리 및 모니터링** | **Java, Springboot, JPA, <br>DevOps(AWS), Linux** |
 
 <br>
 <br>
