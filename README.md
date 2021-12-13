@@ -8,13 +8,16 @@
 </div>
 <br>
 <br>
-
+<div align = center>
+            
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TonyJHC&&show_icons=true&theme=dracula)![yoopark's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=TonyJHC&layout=compact&theme=dracula)
 <br>
 <br>
+<div align = center>
+            
 
-### 🏁: Career
+### 🏁 Career 🏁
 | **Name** | **Date** |  **Role** | **Contents** |**Organization** |
 |:--------:|:--------:|:--------:|:--------:|:--------:|
 | **:mortar_board:한성대학교<br>IT 공과대학 <br> IT융합공학부** | 2017. 2 ~ ing | 공학사 | **지능시스템트랙(AI)<br>사물인터넷트랙(IoT)** | **한성대학교** |
@@ -25,7 +28,7 @@
 <br>
 <br>
 
-### 💻: Project
+### 💻 Project 💻
 | **Name** | **Date** |  **Role** | **Contents** |**Stacks** |
 |:--------:|:--------:|:--------:|:--------:|:--------:|
 | **Regala** | 2020. 9 ~ <br>2021. 5 | HW/SW Engineer | **자동촬영기기 <br> HW/SW 설계 및 개발** | **OpenCV(python)-ImageStitching,<br>MCU(Arduino),Raspberry pi,<br>Linux, MQTT Protocol,<br>Motor** |
@@ -90,8 +93,17 @@
              
    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">       
                <br>
-                      
-  
+               <br>
+              
+### ✍🏻 Plan ✍🏻
+| **Name** | **Date** | **Contents** |**Stacks** |
+|:--------:|:--------:|:--------:|:--------:|
+| **Prepare for<br>coding test** | 2021. 10 ~ <br>2022. 8 | **Programmers<br>backjun<br>Data Structure** | **Java, RxJava, Lambda...** |
+| **Fever app<br> migration** | 2022. 1 ~ 2 | **maven -> gradle<br>Spring -> Springboot<br>카페24 -> AWS<br>...etc**  | **AWS,<br>Springboot, JPA,<br>SpringSecurity...etc** |
+| **miiia app<br>** | 2022. 1 ~ ing |**WAS 구축,<br>서버관리 및 모니터링** | **Java, Springboot, JPA, <br>DevOps(AWS), Linux** |
+
+<br>
+<br>
 
 <!---
 TonyJHC/TonyJHC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
