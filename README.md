@@ -99,6 +99,7 @@
 | **Name** | **Date** | **Contents** |**Stacks** |
 |:--------:|:--------:|:--------:|:--------:|
 | **Prepare for<br>coding test** | 2021. 10 ~ <br>2022. 8 | **Programmers<br>backjun<br>Data Structure** | **Java, RxJava, Lambda<br>Data structure<br>...etc** |
+| **Overcoming vulnerabilities** | 2022. 12 ~ ing |**** | **HTML,CSS,JavaScript<br>Mybatis<br>CI/CD, Kubernetes** |
 | **Fever app<br> migration** | 2022. 1 ~ 2 | **maven -> gradle<br>Spring -> Springboot<br>카페24 -> AWS<br>...etc**  | **AWS,<br>Springboot, JPA,<br>SpringSecurity...etc** |
 | **miiia app<br>** | 2022. 1 ~ ing |**WAS 구축,<br>서버관리 및 모니터링** | **Java, Springboot, JPA, <br>DevOps(AWS), Linux** |
 | **한성대학교 캡스톤1<br>** | 2022. 3 ~ 6 |**Make<br>Deep learning model** | **Python, tensorflow** |
