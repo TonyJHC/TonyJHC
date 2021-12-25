@@ -52,6 +52,19 @@
       </div>
       
   <br>
+              <div align=center><h2>🏆Awards and Certifications🏆</h2><div>
+      <div align = center>          
+            
+2020 ~ 2021 한성대학교 창업 동아리 선정<br>
+2020 한성대학교 창업 아이디어 경진대회 최우수상🏅&금상🥇<br>
+2021 서경대학교 캠퍼스타운 창업 입주 경진대회 (대상&입주선정)<br>
+2021 문체부 지원사업 스포츠 창업 지원센터 보육 기업 선정<br>
+2021 정보통신산업진흥원 고성능 AI 컴퓨터 지원 사업 선정<br>
+2021 학생창업유망팀 300 (창업도전형 실전창업트랙/선정)<br>
+                </div>
+
+<br><br>
+                        
               
               
 <div align = center>
@@ -66,18 +79,9 @@
 | **학생 창업유망팀 300 <br>창업도전형** | 2021. 5 ~ 10 | Backend Engineer | **풋살 경기 자동 촬영 시스템과 전용 APP** | **교육부<br>과학기술정보통신부** |
 
 <br>
-<br>
-              </div>        
-    <div align=center><h2🏆Awards and Certifications🏆</h2><div>
-      <div align = center>          
-            
-2020 ~ 2021 한성대학교 창업 동아리 선정<br>
-2020 한성대학교 창업 아이디어 경진대회 최우수상🏅&금상🥇<br>
-2021 서경대학교 캠퍼스타운 창업 입주 경진대회 (대상&입주선정)<br>
-2021 문체부 지원사업 스포츠 창업 지원센터 보육 기업 선정<br>
-2021 정보통신산업진흥원 고성능 AI 컴퓨터 지원 사업 선정<br>
-2021 학생창업유망팀 300 (창업도전형 실전창업트랙/선정)<br>
-                </div>
+ </div>        
+              <br>
+              
 
 <!---
 TonyJHC/TonyJHC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
