@@ -43,7 +43,7 @@
       
   <div align=center><h2>👨‍💻 collaboration 🤝</h2><div>
       <div align = center>
-        <br>         
+          
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira Software&logoColor=white">  
@@ -51,26 +51,8 @@
   <br>
       </div>
       
-  <div align=center><h2>👇🏻 etc👇🏻 </h2><div>
-      <div align = center>
-            <br>
-   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"> 
-  
- <br>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
-  <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=white">   
-  <img src="https://img.shields.io/badge/DataGrip-000000?style=for-the-badge&logo=DataGrip&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=white">   
   <br>
-               
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white">   
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white">    
-  <img src="https://img.shields.io/badge/Pycharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white">    
-             
-   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white">       
-               <br>
-               <br>
+              
               
 <div align = center>
             
@@ -85,38 +67,17 @@
 
 <br>
 <br>
-
-### 💻 Project 💻
-| **Name** | **Date** |  **Role** | **Contents** |**Stacks** |
-|:--------:|:--------:|:--------:|:--------:|:--------:|
-| **Regala** | 2020. 9 ~ <br>2021. 5 | HW/SW Engineer | **자동촬영기기 <br> HW/SW 설계 및 개발** | **OpenCV(python)-ImageStitching,<br>MCU(Arduino),Raspberry pi,<br>Linux, MQTT Protocol,<br>Motor** |
-| **Fever** | 2021. 5 ~ ing | Backend Developer | **REST API 구축** | **Java , Springboot, Mybatis,<br> DevOps(AWS), Linux** |
-| **Petcomes** | 2021. 7 ~ 12 | Team Manager<br>Backend Engineer | **WAS 구축,<br>서버관리 및 모니터링** | **Java, Springboot, JPA, <br>DevOps(AWS), Linux** |
-| **miiia** | 2022. 1 ~ ing | Backend Engineer | **WAS 구축,<br>서버관리 및 모니터링** | **Java, Springboot, JPA, <br>DevOps(AWS), Linux** |
-
-<br>
-<br>
-
-### ✍🏻 Plan ✍🏻
-| **Name** | **Date** | **Contents** |**Stacks** |
-|:--------:|:--------:|:--------:|:--------:|
-| **Prepare for<br>coding test** | 2021. 10 ~ <br>2022. 8 | **Programmers<br>backjun<br>Data Structure** | **Java, RxJava, Lambda<br>Data structure<br>...etc** |
-| **Overcoming vulnerabilities** | 2022. 12 ~ ing |**** | **HTML,CSS,JavaScript<br>Mybatis<br>CI/CD, Kubernetes** |
-| **Fever app<br> migration** | 2022. 1 ~ 2 | **maven -> gradle<br>Spring -> Springboot<br>카페24 -> AWS<br>...etc**  | **AWS,<br>Springboot, JPA,<br>SpringSecurity...etc** |
-| **miiia app<br>** | 2022. 1 ~ ing |**WAS 구축,<br>서버관리 및 모니터링** | **Java, Springboot, JPA, <br>DevOps(AWS), Linux** |
-| **한성대학교 캡스톤1<br>** | 2022. 3 ~ 6 |**Make<br>Deep learning model** | **Python, tensorflow** |
-| **한성대학교 캡스톤2<br>** | 2022. 3 ~ 6 |**Make<br>IoT Cloud Platform<br>with AWS<br>+Android App or Web** | **AWS IoT,<br>AWS Gateway,<br>AWS Lambda,<br>AWS Dynamodb,<br>AWS SNS...etc** |
-
-
-<br>
-<br>
+              </div>        
+    <div align=center><h2🏆Awards and Certifications🏆</h2><div>
+      <div align = center>          
             
-∙ 2020 ~ 2021 한성대학교 창업 동아리 선정<br>
-∙ 2020 한성대학교 창업 아이디어 경진대회 최우수상&금상<br>
-∙ 2021 서경대학교 캠퍼스타운 창업 입주 경진대회 (대상&입주선정)<br>
-∙ 2021 문체부 지원사업 스포츠 창업 지원센터 보육 기업 선정<br>
-∙ 2021 정보통신산업진흥원 고성능 AI 컴퓨터 지원 사업 선정<br>
-∙ 2021 학생창업유망팀 300 (창업도전형 실전창업트랙/선정)<br>
+2020 ~ 2021 한성대학교 창업 동아리 선정<br>
+2020 한성대학교 창업 아이디어 경진대회 최우수상🏅&금상🥇<br>
+2021 서경대학교 캠퍼스타운 창업 입주 경진대회 (대상&입주선정)<br>
+2021 문체부 지원사업 스포츠 창업 지원센터 보육 기업 선정<br>
+2021 정보통신산업진흥원 고성능 AI 컴퓨터 지원 사업 선정<br>
+2021 학생창업유망팀 300 (창업도전형 실전창업트랙/선정)<br>
+                </div>
 
 <!---
 TonyJHC/TonyJHC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
