@@ -2,7 +2,7 @@
 
 <div align=center>
 👋 Hi, I’m @TonyJHC👋<br>
-👀 I’m interested in algorithm 👀<br>
+👀 I’m interested in algorithm, CS 👀<br>
 🌱 I’m currently learning JPA(ORM) Pragrmming 🌱<br>
 📫 How to reach me jongvin01@naver.com 📫<br>
 ✍🏻 My resume : https://cooked-shade-f5f.notion.site/Resume-db2a493c69e44b558ecd11bb994a4589 ✍🏻
