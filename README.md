@@ -12,7 +12,7 @@
 <div align = center>
             
             
-
+            
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TonyJHC&&show_icons=true&theme=nightowl&hide=contribs,prs)![yoopark's Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=TonyJHC&layout=compact&theme=nightowl)
 <br>
 <br>
@@ -52,36 +52,8 @@
   <br>
       </div>
       
-  <br>
-              <div align=center><h2>🏆Awards and Certifications🏆</h2><div>
-      <div align = center>          
-            
-2020 2021 한성대학교 창업 동아리 활동<br>
-2020 한성대학교 창업 아이디어 경진대회 최우수상🏅&금상🥇<br>
-2021 서경대학교 캠퍼스타운 창업 입주 경진대회 (대상🏅&입주선정)<br>
-2021 문체부 지원사업 스포츠 창업 지원센터 보육 기업 선정<br>
-2021 정보통신산업진흥원 고성능 AI 컴퓨터 지원 사업 선정<br>
-2021 교육부/과기부 학생창업유망팀 300 (창업도전형 실전창업트랙/선정)<br>
-                </div>
-
-<br><br>
-                        
-              
-              
-<div align = center>
-            
-
-### 🏁 Career 🏁
-| **Name** | **Date** |  **Role** | **Contents** |**Organization** |
-|:--------:|:--------:|:--------:|:--------:|:--------:|
-| **:mortar_board:한성대학교<br>IT 공과대학 <br> IT융합공학부** | 2017. 2 ~ ing | 공학사 | **지능시스템트랙(AI)<br>사물인터넷트랙(IoT)** | **한성대학교** |
-| **한성대학교 창업동아리** | 2020. 9 ~ ing | HW/SW Engineer<br>Backend Engineer  | **풋살 경기 자동 촬영 시스템과 전용 APP** | **한성대학교** |
-| **한이음 ICT 멘토링** | 2021. 4 ~ 12 | Team Manager<br>Backend Engineer | **반려견 생활기록 SNS APP** | **한국정보산업연합회** |
-| **학생 창업유망팀 300 <br>창업도전형** | 2021. 5 ~ 10 | Backend Engineer | **풋살 경기 자동 촬영 시스템과 전용 APP** | **교육부<br>과학기술정보통신부** |
-
-<br>
- </div>        
-              <br>
+ 
+                
               
 
 <!---
